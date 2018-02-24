@@ -1,0 +1,9 @@
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\bin\Debug\Lineas a la antigua.exe.config
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\bin\Debug\Lineas a la antigua.exe
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\bin\Debug\Lineas a la antigua.pdb
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\obj\Debug\Lineas a la antigua.csprojResolveAssemblyReference.cache
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\obj\Debug\Lineas_a_la_antigua.Form1.resources
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\obj\Debug\Lineas_a_la_antigua.Properties.Resources.resources
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\obj\Debug\Lineas a la antigua.csproj.GenerateResource.Cache
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\obj\Debug\Lineas a la antigua.exe
+c:\users\claudio ivan\documents\visual studio 2015\Projects\Lineas a la antigua\Lineas a la antigua\obj\Debug\Lineas a la antigua.pdb
